@@ -1,0 +1,12 @@
+# build output
+*.exe
+*.res
+*.obj
+*.o
+icon.ico
+
+# local junk
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
