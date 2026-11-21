@@ -65,4 +65,4 @@ before it applies fully.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Personal, non-commercial use only. See [LICENSE](LICENSE).
